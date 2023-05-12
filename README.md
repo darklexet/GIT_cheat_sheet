@@ -1,2 +1,2 @@
 # GIT_cheat_sheet
-# RUS
+# RUS language
